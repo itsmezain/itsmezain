@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hey there, I'm Ali Zain 👋</h1>
-  <p><strong>Data Science & Machine Learning Practitioner | Python Developer | Builder</strong></p>
+  <h1>Ali Zain</h1>
+  <p><strong>Data Science & Machine Learning Practitioner | Python Developer</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -9,43 +9,40 @@
     <img src="https://img.shields.io/github/followers/itsmezain?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   </p>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" />
-
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Pursuing an **Integrated BCA & MCA in Data Science** at the **University of Allahabad**.
-- 💡 Passionate about turning raw data into actionable insights and deploying production-ready machine learning solutions.
-- 🛠️ Actively building real-world projects across **Machine Learning**, **Computer Vision**, and **End-to-End Data Pipelines**.
-- ⚡ Constantly experimenting with **Generative AI workflows**, modern deep learning architectures, and automated data scraping systems.
+- Pursuing an **Integrated BCA & MCA in Data Science** at the **University of Allahabad**.
+- Focused on applied machine learning, statistical data analysis, and building functional AI applications.
+- Developing projects centered on **Computer Vision**, predictive modeling, and data pipelines.
+- Interested in modern deep learning architectures and interactive data tools.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Skills & Technologies
 
 <div align="center">
 
-#### Languages & Core
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-#### Data Science & Machine Learning
+#### Machine Learning & Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Frameworks, Scraping & Deployment
+#### Development & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-005C8A?style=flat-square&logo=scrapy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-#### Developer Tools & Environments
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -55,16 +52,16 @@
 
 ---
 
-### 📌 Core Focus Areas
+### Focus Areas
 
-- **Applied Machine Learning:** Feature engineering, cross-validation, hyperparameter optimization, and predictive model deployment.
-- **Computer Vision:** Image processing, feature detection, object tracking, and edge analysis using OpenCV.
-- **Data Engineering & Extraction:** Scalable web crawlers with Scrapy, data normalization, validation, and automated ETL workflows.
-- **Interactive Apps:** Turning complex ML pipelines into rapid web interfaces using Streamlit.
+- **Applied Machine Learning:** Data preprocessing, exploratory data analysis (EDA), feature engineering, model evaluation, and cross-validation.
+- **Computer Vision:** Image manipulation, edge detection, contour analysis, and visual feature extraction via OpenCV.
+- **Interactive Prototyping:** Rapid interface development and model demonstration using Streamlit.
+- **Academic Writing:** Technical documentation and scientific typesetting with LaTeX.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/itsmezain">
@@ -80,5 +77,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & built with 💻 by <a href="https://github.com/itsmezain">Ali Zain</a></sub>
+  <sub>Ali Zain • <a href="https://github.com/itsmezain">github.com/itsmezain</a></sub>
 </div>
